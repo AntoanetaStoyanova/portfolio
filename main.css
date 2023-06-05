@@ -152,7 +152,6 @@
   justify-content: flex-end;
 }
 .about__bio-image p {
-   margin-top: 2rem;
   margin-bottom: 2rem;
 }
 .about__bio {
@@ -295,6 +294,10 @@
 @media screen and (min-width: 360px) {
  .home__name {
     font-size: 2rem;
+  }
+  .about__bio {
+   margin-top: 2rem;
+   margin-bottom: 2rem;
   }
 }
 
