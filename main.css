@@ -158,7 +158,7 @@
   width: 80%;
   text-align: center;
 }
-.about__bio .text-secondary {
+.about__bio .text-secondary .text{
   padding-bottom: 1rem;
 }
 .about .jobs {
