@@ -299,7 +299,7 @@
    margin-top: 20rem;
   }
   .about__bio .text-secondary p {
-    padding-top: 3rem;
+    margin-top: 3rem;
 }
 
 @media screen and (min-width: 360px) {
