@@ -291,12 +291,18 @@
   margin-top: 2rem;
 }
 
-@media screen and (min-width: 360px) {
+@media screen and (min-width: 300px) {
  .home__name {
     font-size: 2rem;
   }
   .about__bio {
    margin-top: 5rem;
+  }
+}
+
+@media screen and (min-width: 360px) {
+ .home__name {
+    font-size: 2rem;
   }
 }
 
