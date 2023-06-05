@@ -152,10 +152,11 @@
   justify-content: flex-end;
 }
 .about__bio-image p {
+   margin-top: 2rem;
   margin-bottom: 2rem;
 }
 .about__bio {
-  margin-top: 2rem;
+ 
   width: 80%;
   text-align: center;
 }
